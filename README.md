@@ -1,4 +1,5 @@
 # CodeSample
+## by Kenneth Vedder
 
 This is a Unity project that showcases in a vertical slice how I tend to idealize, structure and write code. In addition to this, it also displays usage of stylization with post-processing and VFX.
 
