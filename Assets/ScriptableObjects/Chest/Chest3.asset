@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3498d7d9e98495b98b69c42a2730c1, type: 3}
+  m_Name: Chest3
+  m_EditorClassIdentifier: 
+  Name: QueenChest
+  cardSprite: {fileID: 21300000, guid: edda777cac36e49398eed584244fe17d, type: 3}
+  cardName: Stillness Queen
+  cardDescription: Her call being dreaded by seasoned sailors, the Stillness Queen
+    can  halt the motion of the waves with her tender voice, thus spelling doom for
+    any ship in the high seas.
